@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "ekkyar",
+      "email": "ekkyrahmanx1@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "eka",
+      "email": "eka@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "coba",
+      "email": "coba@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "username": "trial",
+      "email": "trial@gmail.com",
+      "password": "123456",
+      "id": 4
+    }
+  ]
+}
